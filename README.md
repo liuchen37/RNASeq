@@ -11,6 +11,6 @@ and
 We thank Dr.Jianming Zeng(University of Macau), and all the members of his bioinformatics team, biotrainee, for generously sharing their experience and codes.
 ```
 
-## [Add cell type to UMAP DimPlot](https://github.com/liuchen37/RNASeq/blob/main/Add%20cell%20type%20to%20UMAP%20dimension%20reduction%20plot.r)
+### [Add cell type to UMAP DimPlot](https://github.com/liuchen37/RNASeq/blob/main/Add%20cell%20type%20to%20UMAP%20dimension%20reduction%20plot.r)
 
 ![alt_text](https://github.com/liuchen37/Pics/blob/main/UMPA+celltype.png?raw=true)
