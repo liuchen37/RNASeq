@@ -1,7 +1,5 @@
 # RNASeq
 
-Some tutorials
-
 Reference: 
 ```
 R_tutorials, liuchen37: https://github.com/liuchen37/R_tutorials
