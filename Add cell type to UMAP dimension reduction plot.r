@@ -6,7 +6,6 @@ rm(list = ls())
 # load pbmc3k
 library(SeuratData)
 library(Seurat)
-InstallData('pbmc3k')
 data('pbmc3k')
 pbmc3k <- pbmc3k.final
 
