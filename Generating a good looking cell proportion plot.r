@@ -98,3 +98,5 @@ source('PropPlot.R')
 table(sce$seurat_clusters, sce$celltype)
 PropPlot(object = sce, groupBy = 'celltype') + 
   PropPlot(object = sce, groupBy = 'seurat_clusters')
+
+# Result: https://github.com/liuchen37/Pics/blob/main/PropPlot.png
