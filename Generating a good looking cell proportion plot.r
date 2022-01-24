@@ -4,7 +4,7 @@
 rm(list = ls())
 
 file.choose()
-setwd("/Users/chenliu/Documents/R/Seurat")
+setwd("directory")
 
 # load pbmc3k
 library(ggplot2)
