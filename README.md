@@ -2,7 +2,7 @@
 
 Reference: 
 ```
-R_tutorials, liuchen37: https://github.com/liuchen37/R_tutorials
+R Bioinformatcis COokbook, Oxford (2019)
 
 and
 
