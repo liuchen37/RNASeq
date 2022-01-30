@@ -2,7 +2,7 @@
 
 Reference: 
 ```
-R Bioinformatcis COokbook, Oxford (2019)
+R Bioinformatcis Cookbook, Oxford (2019)
 
 and
 
