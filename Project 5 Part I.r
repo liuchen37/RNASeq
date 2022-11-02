@@ -96,16 +96,7 @@ plotPCA(vsd, intgroup = c("sample"))
 #return coordinate and put coordinate to a table
 plotPCA(vsd, intgroup = c("sample"), returnData = T)
 PCAreturn <- "
-            PC1       PC2 group sample name
-X01 -26.4908291  5.050666    WT     WT  X01
-X02 -14.2947736  6.774090    KO     KO  X02
-X03   0.2312635 -3.080238    WT     WT  X03
-X04   2.6058036 -6.155133    WT     WT  X04
-X05   2.6727210 -6.005914    WT     WT  X05
-X06   9.4176266 -1.243677    WT     WT  X06
-X07  -0.5930866 -1.189492    KO     KO  X07
-X08  23.6580783 12.370145    KO     KO  X08
-X09   2.7931962 -6.520447    KO     KO  X09
+coordinates here
 "
 PCAreturn <- read.table(header = T,
                         text = PCAreturn)
